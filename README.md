@@ -17,12 +17,12 @@ This simple Discord bot is designed to send a direct message to the user when he
 
 1. Clone the repository:
 
-   ```bash
+ ```bash
    git clone https://github.com/Oguzhanyldrmm/Messender-Bot.git
-
+ ```
 2.Install dependencies:
-   ```bash
-     pip install -r requirements.txt
+ ```bash
+   pip install -r requirements.txt
 
 ```
 
@@ -33,5 +33,8 @@ This simple Discord bot is designed to send a direct message to the user when he
 - The bot will automatically send a direct message to the user who reacted.
 - In the code section, enter your discord token.
 
+### Add Messender Bot Your Server!
+```bash
+https://discord.com/api/oauth2/authorize?client_id=1209469930857177168&permissions=330752&response_type=code&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize%3F%26client_id%3D1209469930857177168%26scope%3Dbot&scope=messages.read+bot
 
 
