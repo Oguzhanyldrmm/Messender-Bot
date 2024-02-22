@@ -21,7 +21,7 @@ This simple Discord bot is designed to send a direct message to the user when he
    git clone https://github.com/Oguzhanyldrmm/Messender-Bot.git
 
 2.Install dependencies:
- ```bash
+    ```bash
   pip install -r requirements.txt
 
 
