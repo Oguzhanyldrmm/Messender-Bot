@@ -21,15 +21,17 @@ This simple Discord bot is designed to send a direct message to the user when he
    git clone https://github.com/Oguzhanyldrmm/Messender-Bot.git
 
 2.Install dependencies:
-      ```bash
+   ```bash
      pip install -r requirements.txt
 
+```
 
 ### USAGE
-Invite the bot to your server using the OAuth2 URL generated from the Discord Developer Portal.
-Ensure the bot has the necessary permissions to read messages and send direct messages.
-Users can react to any message with the green checkmark emoji (✅).
-The bot will automatically send a direct message to the user who reacted.
+- Invite the bot to your server using the OAuth2 URL generated from the Discord Developer Portal.
+- Ensure the bot has the necessary permissions to read messages and send direct messages.
+- Users can react to any message with the green checkmark emoji (✅).
+- The bot will automatically send a direct message to the user who reacted.
+- In the code section, enter your discord token.
 
 
 
