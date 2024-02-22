@@ -30,5 +30,5 @@ async def on_raw_reaction_add(payload):
 
 
 
-client.run('MTIwOTQ2OTkzMDg1NzE3NzE2OA.Gzq0a4.dv6SALXX-Mr1In2L6EeTuLMBvzyl9dlOXxDpzY')
+client.run('DISCORD_BOT_TOKEN')
 
